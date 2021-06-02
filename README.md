@@ -11,5 +11,5 @@ Contents of the project include:
   a. Multiple linear regression
   b. Naive Bayes' classifier
   c. Random forest classification
-  4. Decision tree classification
+  d. Decision tree classification
 5. Graph plots
