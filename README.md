@@ -13,3 +13,4 @@ Contents of the project include:
   c. Random forest classification
   d. Decision tree classification
 5. Graph plots
+6. Calculating accuracy
