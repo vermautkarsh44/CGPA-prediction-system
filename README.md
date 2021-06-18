@@ -7,12 +7,29 @@ Thus, the role of early CGPA prediction system comes into place. A CGPA Predicti
 Contents of the project include:
 1. Collection of dataset
 2. Data pre-processing
-3. Applying machine learning models
-  a. Multiple Linear Regression
-  b. Random Forest Regression
-  c. Naive Bayes' Classifier
-  d. Random Forest Classification
-  e. Decision Tree Classification
-  f. Logistic Regression Classification
-5. Graph plots
-6. Calculating accuracy
+3. Applying machine learning models:
+
+    a. Multiple Linear Regression
+
+    b. Random Forest Regression
+
+    c. Naive Bayes' Classifier
+
+    d. Random Forest Classification
+
+    e. Decision Tree Classification
+
+    f. Logistic Regression Classification
+
+4. Graph plots
+
+5. Calculating accuracy
+
+Purpose:
+
+The main purpose of this project is to predict student’s CGPA with the help of different features using machine learning techniques which will help the student to analyse what are the fields in which he is lagging behind, if he’s being overconfident, lousy, hard-working, taking proper rest etc. Knowing all these things, students can self-improve and self develop by working hard and perform better in college academics to achieve a better CGPA
+
+Motivation:
+
+This project has been a helpful and very useful machine learning techniques’ implementation. Predicting the student’s CGPA seemed to be impossible if we look 15-20 years back from now. If the CGPA could be predicted precisely and accurately, it could really benefit many students and help them achieve a lot more.This project aims at predicting the CGPA of the student so that it can help students who are in need of special attention and care. There are so many other models and techniques that can be used to achieve the main objective of this project. There are many algorithms and models that show most accurate results, but their accuracy also varies with the attributes taken.
+
