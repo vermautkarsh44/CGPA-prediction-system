@@ -8,9 +8,11 @@ Contents of the project include:
 1. Collection of dataset
 2. Data pre-processing
 3. Applying machine learning models
-  a. Multiple linear regression
-  b. Naive Bayes' classifier
-  c. Random forest classification
-  d. Decision tree classification
+  a. Multiple Linear Regression
+  b. Random Forest Regression
+  c. Naive Bayes' Classifier
+  d. Random Forest Classification
+  e. Decision Tree Classification
+  f. Logistic Regression Classification
 5. Graph plots
 6. Calculating accuracy
