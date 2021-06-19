@@ -5,7 +5,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 #importing dataset
-dataset=pd.read_csv("Student's Information_cse.csv")
+dataset=pd.read_csv("Student's Information_Regression_data.csv")
 X= dataset.iloc[:,:12].values
 Y=dataset.iloc[:,12].values
 
