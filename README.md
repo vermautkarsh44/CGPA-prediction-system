@@ -27,7 +27,7 @@ Contents of the project include:
 
 Purpose:
 
-The main purpose of this project is to predict student’s CGPA with the help of different features using machine learning techniques which will help the student to analyse what are the fields in which he is lagging behind, if he’s being overconfident, lousy, hard-working, taking proper rest etc. Knowing all these things, students can self-improve and self develop by working hard and perform better in college academics to achieve a better CGPA
+The main purpose of this project is to predict student’s CGPA with the help of different features using machine learning techniques which will help the student to analyse what are the fields in which he is lagging behind, if he’s being overconfident, lousy, hard-working, taking proper rest etc. Knowing all these things, students can self-improve and self develop by working hard and perform better in college academics to achieve a better CGPA.
 
 Motivation:
 
