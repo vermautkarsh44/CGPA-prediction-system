@@ -1,6 +1,7 @@
 # CGPA-prediction-system
 
 (Note: For complete understanding of the project please consider the Phase 2 report.)
+
 CGPA Prediction System
 
 Students’ academic performance is a very concerned issue as it is the reflection of both academic background and family support. It is very important for the educational institution to track the performance record because it can help them to improve the quality of their education.
