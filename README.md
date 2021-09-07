@@ -1,6 +1,6 @@
 # CGPA-prediction-system
 
-(Note: For complete understanding of the project please consider the Phase 2 report.)
+(Note: For complete understanding of the project please consider the Phase 2 report and phase 2 presentation.)
 
 CGPA Prediction System
 
